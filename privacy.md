@@ -1,0 +1,3 @@
+# Privacy and Data Usage
+
+We value your privacy, so we want to be explicit about what kind of personal information is involved when you interact with MyFavoriteAlbums. The application does not collect any personally identifiable information. When you upload your list of favorite albums, this data is stored on your device in local storage. This means your album data remains private unless you decide to publish your web dashboard online and share it. We want to be completely transparent about how the album data is used in the apps, and if you are interested in digging through the source code, it is available on [GitHub](https://github.com/UW-Example-Student/MyFavoriteAlbums).
