@@ -1,5 +1,15 @@
 # Frequently Asked Questions (FAQ)
 
+## Table of Contents
+1. [Setup and Installation](#one)
+2. [Working With Your Album Data File](#two)
+3. [Running and Navigating the Application](#three)
+4. [Publishing Your Application Online](#four)
+5. [Troubleshooting and Common Issues](#five)
+
+<hr>
+<a id="one"></a>
+
 ## Setup and Installation
 
 ### Do I need to reinstall R and RStudio every time? 
@@ -15,6 +25,10 @@ install.packages("shiny")
 install.packages("ggplot2")
 ```
 If an error persists, check for typos or internet connectivity issues.
+
+<hr>
+
+<a id="two"></a>
 
 ## Working With Your Album Data File
 
@@ -38,6 +52,10 @@ To update your album data:
 ### What if I forget to save my album spreadsheet as a ```.csv``` file? 
 The application only reads ```.csv``` files. When saving or downloading your spreadsheet, make sure to choose ```.csv``` as the file format.
 
+<hr>
+
+<a id="three"></a>
+
 ## Running and Navigating the Application
 ### Can I use MyFavoriteAlbums without an internet connection?
 Yes, you can use/run the application locally without an internet connection. However, an internet connection is needed to:
@@ -56,6 +74,9 @@ If you see a new or unfamiliar error message (not related to the items above), c
 ### What does it mean if a visualization is blank? 
 This usually means that your dataset does not contain any relevant data for the filters you have selected, or there may be formatting issues in your ```album-rankings.csv``` file. Double-check that your file includes entries that match the selected filters. Also, make sure that all column names and formats are correct (for example, the Year column should contain four-digit numbers like 1998, not written-out text like “nineteen ninety-eight”).
 
+<hr>
+<a id="four"></a>
+
 ## Publishing Your Application Online
 
 ### Is publishing on shinyapps.io required? 
@@ -63,6 +84,9 @@ No. Publishing is optional. It lets others access your application through a lin
 
 ### Can I update my published application after adding new data? 
 Yes. After editing your ```album-rankings.csv``` file or other application code, re-run the application in RStudio. Click the **Publish** button again. The site will update your application with the latest version.
+
+<hr>
+<a id="five"></a>
 
 ## Troubleshooting and Common Issues
 
