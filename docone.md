@@ -1,6 +1,6 @@
 # Downloading MyFavoriteAlbums
 
-1. Go to the [GitHub repository](https://github.com/UW-Example-Student/MyFavoriteAlbums).
+1. Go to the [MyFavoriteAlbums GitHub repository](https://github.com/UW-Example-Student/MyFavoriteAlbums).
 2. Above the list of files, click the green **<> Code** button.
 3. Once the dropdown menu appears, select **Download ZIP**.
 
